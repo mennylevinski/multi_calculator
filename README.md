@@ -5,7 +5,7 @@ Designed to run in **CMD, terminal, or Linux** environments without external lib
 
 ---
 
-## 🧮 Features
+## 🔢 Features
 
 - **Binary → Decimal**  
 - **Decimal → Binary**  
